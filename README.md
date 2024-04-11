@@ -44,13 +44,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pond3952/count.svg?"  />
-</div>
-
-###
