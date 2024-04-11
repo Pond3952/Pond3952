@@ -37,6 +37,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pond3952/Pond3952/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Pond3952/Pond3952/output/snake.svg" alt="Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" />
 
 ###
